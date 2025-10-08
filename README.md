@@ -20,15 +20,11 @@ Built with HTML and SCSS only, without using any modern libraries or frameworks.
 
 2. **Install dependencies**
 
-   npm install
-   # or
-   yarn install
+   npm install _or_ yarn install
 
 3. **Run the project locally**
 
-   npm start
-   # or
-   yarn start
+   npm start _or_ yarn start
 
 ---
 
